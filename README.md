@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Kanika Sharma 👋  
+🎓 B.Tech in Computer Science (Data Science)  
+💻 Passionate about Data Science | Fronted | Web Designing  
 
-<!--
-**kanikasharma1152/kanikasharma1152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do
+- 🧠 Building Web Designing & data visualizations  
+- 📊 Exploring datasets on Kaggle  
+- 🕸️ Developing data-driven web apps  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+Python | Pandas | NumPy | Matplotlib | MySQL | HTML | CSS | Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+Python| SQL| DSA 
+
+### 📫 Let's Connect
+- 📧 [Email Me](mailto:kanikasdsi2475@svvv.edu.in)  
+- 💼 [LinkedIn](www.linkedin.com/in/kanika-sharma-5002b6315)  
+- 📊 [Kaggle](https://www.kaggle.com/kanikasharma2206)
