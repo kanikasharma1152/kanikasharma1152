@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Kanika Sharma</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<p align="right">
+<p align="left">
   <img src="https://img.freepik.com/premium-photo/anime-girl-programmer-working-code-project_1282444-263471.jpg" width="300">
 </p>
 
