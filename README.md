@@ -49,15 +49,5 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanikasharma1152&show_icons=true&locale=en&layout=compact&theme=dark" alt="kanikasharma1152" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanikasharma1152&show_icons=true&locale=en&theme=dark" alt="kanikasharma1152" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanikasharma1152&theme=dark" alt="kanikasharma1152" />
-</p>
 
