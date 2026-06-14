@@ -2,7 +2,7 @@
 <h2 align="center">👩‍💻 Aspiring Data Scientist</h2>
 
 <p align="center">
-  <img src="https://previews.123rf.com/images/ngilustrasi/ngilustrasi2405/ngilustrasi240500424/229106068-flat-design-illustration-of-female-programmer.jpg" width="850">
+  <img src="https://previews.123rf.com/images/ngilustrasi/ngilustrasi2405/ngilustrasi240500424/229106068-flat-design-illustration-of-female-programmer.jpg" width="550">
 </p>
 
 <p align="center">
