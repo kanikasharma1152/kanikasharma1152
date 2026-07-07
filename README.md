@@ -62,18 +62,18 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikasharma1152&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanikasharma1152&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanikasharma1152&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanikasharma1152&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikasharma1152&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanikasharma1152&theme=tokyonight" />
 </p>
 ---
 
