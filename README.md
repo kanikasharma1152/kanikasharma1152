@@ -12,21 +12,23 @@
 
 🎓 B.Tech Computer Science student specializing in **Artificial Intelligence & Data Science**.
 
-🐍 **Python** is my primary language, and I use it for backend development, data science, automation, and AI-based applications.
+🐍 **Python** is my primary programming language, and I use it for backend development, data science, automation, and AI-based applications.
 
-🤖 I'm currently exploring **AI development, Machine Learning, Generative AI, AI Agents, automation, and intelligent applications**.
+🤖 Currently exploring **Artificial Intelligence, Machine Learning, Generative AI, AI Agents, RAG, and AI Automation**.
 
-💻 I enjoy building complete projects — from **backend APIs and databases to frontend interfaces and AI-powered features**.
+💻 I enjoy building practical applications that combine **AI, data, backend systems, databases, and frontend interfaces**.
 
-📊 I work with **Data Analysis, EDA, SQL, Pandas, NumPy, Machine Learning fundamentals, and predictive analytics**.
+📊 I work with **Data Analysis, Pandas, NumPy, SQL, Exploratory Data Analysis, Machine Learning fundamentals, and Predictive Analytics**.
 
-🚀 My approach is simple: **learn → build → break → debug → improve.**
+🚀 My learning approach is simple:
+
+**Learn → Build → Break → Debug → Improve**
 
 > **I don't want to compete with the future. I want to build it.**
 
 ---
 
-## 🧠 What I'm Working With
+## 🧠 Core Skills
 
 ### 🐍 Python & Backend
 
@@ -36,72 +38,80 @@
 * Async Programming
 * SQLAlchemy
 * JWT Authentication
-* PostgreSQL
-* SQLite
+* Backend Development
+* API Integration
 
 ### 🤖 AI & Data Science
 
-* Data Analysis
 * NumPy
 * Pandas
+* Data Cleaning
 * Exploratory Data Analysis
 * Data Visualization
 * Machine Learning Fundamentals
 * Predictive Analytics
 * Generative AI
-* AI Agents & Automation
+* LLM Concepts
 * RAG Concepts
+* AI Agents
+* AI Automation
 
 ### 💻 Development
 
 * React
 * HTML
 * CSS
+* JavaScript
 * REST API Integration
-* Database Design
 * CRUD Applications
 * Full-Stack Application Development
+* Responsive UI Development
 
 ### 🗄️ Databases
 
 * PostgreSQL
 * MySQL
-* SQLite
 * MongoDB
+* SQLite
 * SQL
-* Database Queries
-* Joins & Aggregations
+* Database Design
+* Joins
+* Aggregations
+* CRUD Operations
 
 ---
 
 ## 🚀 Projects
 
-### 🚗 RideNow — Ride Booking Backend
+### 🚗 RideNow — Ride Booking Platform
 
-A backend system inspired by ride-booking platforms.
+A backend-focused ride-booking application inspired by modern ride-hailing platforms.
 
-**Tech Stack:** Python • FastAPI • PostgreSQL • SQLAlchemy • JWT • REST APIs
+**Tech Stack:** Python • FastAPI • PostgreSQL • SQLAlchemy • JWT • Alembic
 
 * User authentication and authorization
 * Passenger and driver workflows
 * Ride request and acceptance flow
 * Ride lifecycle management
-* Database migrations with Alembic
+* Driver registration and ride management
+* PostgreSQL database integration
 * Async backend architecture
+* RESTful API development
 
 ---
 
 ### 📊 SkillAnalyze AI
 
-An AI-powered concept for analyzing the gap between **industry skill demand and available skills**.
+An AI and Data Science project focused on understanding the gap between **industry skill demand and available skills**.
 
-**Focus:** AI • Data Science • Skill Analysis • Forecasting • Analytics
+**Tech Stack:** Python • FastAPI • React • Data Analytics
 
 * Industry skill-demand analysis
 * Skill-gap identification
-* Demand forecasting
+* Skill demand forecasting
 * What-if simulation
-* Interactive data visualization
+* Data-driven insights
+* Interactive analytics interface
 
 > **Analyze today's skills. Predict tomorrow's demand. Adapt before the gap grows.**
 
@@ -109,56 +119,58 @@ An AI-powered concept for analyzing the gap between **industry skill demand and 
 
 ### 🛡️ CyberTrace AI
 
-A cybersecurity analysis project designed to work with multiple digital evidence sources.
+A cybersecurity analysis project focused on analyzing digital evidence and generating explainable risk indicators.
 
 **Tech Stack:** Python • FastAPI • SQLite • React
 
-* Evidence analysis
-* Risk indicators
+* Digital evidence analysis
+* Risk indicator generation
 * Explainable analysis
 * SHA-256 evidence integrity
 * API-based architecture
+* Multiple evidence-source concepts
 
 ---
 
 ### 🎨 AI Festival & Offer Banner Generator
 
-An AI-assisted application for generating promotional festival and offer banners.
+An AI-assisted application designed to generate promotional festival and offer banners.
 
 **Tech Stack:** Python • FastAPI • Pillow • SQLite • Supabase/PostgreSQL
 
 * Festival-based banner generation
 * Offer-based templates
-* Automated content generation workflow
+* Automated content workflow
 * Backend API integration
 * Database-backed application
+* Reusable banner generation structure
 
 ---
 
-### 🌱 AgroMitra AI
+### 🏫 Virtual Classroom Platform
 
-An AI-based agricultural assistance concept developed for problem-solving and innovation.
+A frontend-focused virtual classroom platform designed to provide an interactive online learning experience.
 
-**Tech Stack:** React • Tailwind CSS • FastAPI • PWA
+**Tech Stack:** HTML • CSS • JavaScript
 
-* Farmer-focused interface
-* Hindi / English support
-* AI-assisted interaction
-* Responsive PWA experience
+* Interactive classroom interface
+* Student-focused learning experience
+* Course and classroom UI
+* Responsive frontend design
+* Clean navigation
+* User-friendly interface
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,sqlite,react,html,css,java,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,sqlite,react,html,css,js,java,git,github,vscode,pycharm" />
 </p>
 
 ---
 
-## 📈 My Current Learning Focus
-
-I'm currently going deeper into:
+## 🌱 Currently Learning
 
 * Advanced Python
 * Data Structures & Algorithms
@@ -171,7 +183,8 @@ I'm currently going deeper into:
 * AI Automation
 * FastAPI & Backend Architecture
 * Full-Stack Development
-* Building production-oriented projects
+* Data Science
+* Building production-oriented applications
 
 ---
 
@@ -181,9 +194,9 @@ I don't see AI simply as a replacement for people.
 
 I see it as a **capability multiplier**.
 
-AI can automate, analyze, generate, and assist — while humans bring **judgment, creativity, responsibility, communication, and understanding of real-world problems**.
+AI can automate, analyze, generate, and assist — while humans bring **judgment, creativity, responsibility, communication, and real-world understanding**.
 
-So instead of asking:
+Instead of asking:
 
 > *"Will AI replace me?"*
 
@@ -191,7 +204,9 @@ I'm more interested in asking:
 
 > **"How can I learn to build with AI?"**
 
-**Human Intelligence + AI Capability = Greater Possibility.**
+### Human Intelligence + AI Capability = Greater Possibility
+
+**If AI is moving forward, so am I.**
 
 ---
 
